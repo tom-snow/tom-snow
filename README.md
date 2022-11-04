@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+好穷啊，有看得上我的富婆吗
+[支持](https://raw.githubusercontent.com/tom-snow/test/master/7DFC00C9-5980-41DF-BA8A-557F459B0A13.jpeg)
+
 <!--
 **tom-snow/tom-snow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

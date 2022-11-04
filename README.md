@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 好穷啊，有看得上我的富婆吗
-<br>
+<br><br>
 💰 如果觉得我的项目对你有帮助，可以给个 star 吗，如果可以欢迎扫一扫下面：
 
-<div style="height: 300px; width: 300px; background-image: url('https://raw.githubusercontent.com/tom-snow/test/master/7DFC00C9-5980-41DF-BA8A-557F459B0A13.jpeg'); background-repeat: no-repeat; overflow: hidden; display: block; background-position-x: 50%;background-position-y: 25%; background-size: 180%;"> </div>
-<!-- <img src="https://raw.githubusercontent.com/tom-snow/test/master/7DFC00C9-5980-41DF-BA8A-557F459B0A13.jpeg" style="height: 380px;"></img> -->
+<img src="https://github.com/tom-snow/tom-snow/raw/master/zan.png" style="height: 380px;"></img>
 
 <!--
 **tom-snow/tom-snow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

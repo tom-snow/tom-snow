@@ -2,9 +2,12 @@
 
 好穷啊，有看得上我的富婆吗
 <br><br>
-💰 如果觉得我的项目对你有帮助，可以给个 star 吗，如果可以欢迎扫一扫下面：
-
-<img src="https://github.com/tom-snow/tom-snow/raw/master/zan.png" style="height: 380px;"></img>
+- 🌱 只是一个菜鸡而已。
+- 💰 如果觉得我的项目对你有帮助，可以给个 star 吗。
+<details>
+  <summary>呐呐，真的要打赏我的话我也不会拒绝的。(一杯奶茶就可以暖他一整天)</summary>
+  <img src="https://github.com/tom-snow/tom-snow/raw/master/zan.png" style="height: 380px;"></img>
+</details>
 
 <!--
 **tom-snow/tom-snow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
